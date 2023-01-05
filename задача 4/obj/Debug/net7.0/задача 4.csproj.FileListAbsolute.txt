@@ -1,0 +1,15 @@
+D:\Examples\задача 4\bin\Debug\net7.0\задача 4.exe
+D:\Examples\задача 4\bin\Debug\net7.0\задача 4.deps.json
+D:\Examples\задача 4\bin\Debug\net7.0\задача 4.runtimeconfig.json
+D:\Examples\задача 4\bin\Debug\net7.0\задача 4.dll
+D:\Examples\задача 4\bin\Debug\net7.0\задача 4.pdb
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.csproj.AssemblyReference.cache
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.AssemblyInfoInputs.cache
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.AssemblyInfo.cs
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.csproj.CoreCompileInputs.cache
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.dll
+D:\Examples\задача 4\obj\Debug\net7.0\refint\задача 4.dll
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.pdb
+D:\Examples\задача 4\obj\Debug\net7.0\задача 4.genruntimeconfig.cache
+D:\Examples\задача 4\obj\Debug\net7.0\ref\задача 4.dll
