@@ -26,7 +26,7 @@ int getQuarterNumber(int x, int y)
     {
         quarter = 4;
     }
-    return quarter
+    return quarter;
 }
 
 int userX = getUserValue("Введите X");
