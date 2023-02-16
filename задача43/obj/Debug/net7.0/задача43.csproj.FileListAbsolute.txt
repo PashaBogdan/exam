@@ -1,0 +1,15 @@
+D:\Examples\задача43\bin\Debug\net7.0\задача43.exe
+D:\Examples\задача43\bin\Debug\net7.0\задача43.deps.json
+D:\Examples\задача43\bin\Debug\net7.0\задача43.runtimeconfig.json
+D:\Examples\задача43\bin\Debug\net7.0\задача43.dll
+D:\Examples\задача43\bin\Debug\net7.0\задача43.pdb
+D:\Examples\задача43\obj\Debug\net7.0\задача43.csproj.AssemblyReference.cache
+D:\Examples\задача43\obj\Debug\net7.0\задача43.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\задача43\obj\Debug\net7.0\задача43.AssemblyInfoInputs.cache
+D:\Examples\задача43\obj\Debug\net7.0\задача43.AssemblyInfo.cs
+D:\Examples\задача43\obj\Debug\net7.0\задача43.csproj.CoreCompileInputs.cache
+D:\Examples\задача43\obj\Debug\net7.0\задача43.dll
+D:\Examples\задача43\obj\Debug\net7.0\refint\задача43.dll
+D:\Examples\задача43\obj\Debug\net7.0\задача43.pdb
+D:\Examples\задача43\obj\Debug\net7.0\задача43.genruntimeconfig.cache
+D:\Examples\задача43\obj\Debug\net7.0\ref\задача43.dll
