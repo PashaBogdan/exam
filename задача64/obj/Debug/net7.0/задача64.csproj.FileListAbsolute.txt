@@ -1,0 +1,15 @@
+D:\Examples\задача64\bin\Debug\net7.0\задача64.exe
+D:\Examples\задача64\bin\Debug\net7.0\задача64.deps.json
+D:\Examples\задача64\bin\Debug\net7.0\задача64.runtimeconfig.json
+D:\Examples\задача64\bin\Debug\net7.0\задача64.dll
+D:\Examples\задача64\bin\Debug\net7.0\задача64.pdb
+D:\Examples\задача64\obj\Debug\net7.0\задача64.csproj.AssemblyReference.cache
+D:\Examples\задача64\obj\Debug\net7.0\задача64.GeneratedMSBuildEditorConfig.editorconfig
+D:\Examples\задача64\obj\Debug\net7.0\задача64.AssemblyInfoInputs.cache
+D:\Examples\задача64\obj\Debug\net7.0\задача64.AssemblyInfo.cs
+D:\Examples\задача64\obj\Debug\net7.0\задача64.csproj.CoreCompileInputs.cache
+D:\Examples\задача64\obj\Debug\net7.0\задача64.dll
+D:\Examples\задача64\obj\Debug\net7.0\refint\задача64.dll
+D:\Examples\задача64\obj\Debug\net7.0\задача64.pdb
+D:\Examples\задача64\obj\Debug\net7.0\задача64.genruntimeconfig.cache
+D:\Examples\задача64\obj\Debug\net7.0\ref\задача64.dll
